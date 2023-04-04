@@ -1,5 +1,4 @@
 import pygame
-import pygame
 from projectile import Projectile
 import animation
 
