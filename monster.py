@@ -1,5 +1,4 @@
 import pygame
-import pygame
 import random
 import animation
 
